@@ -10,4 +10,10 @@ speedtest.net
 speedtestcustom.com
 webtest.net
 
-include:ookla-speedtest-ads
+full:www.speedtest.net.cdn.cloudflare.net
+
+# SpeedTest Node
+ookla-speedtest-central.hgconair.hgc.com.hk # HGC Global Communications 香港環電
+
+# Ads/tracking
+regexp:^speed\.(coe|open)\.ad\.[a-z]{2,6}\.prod\.hosts\.ooklaserver\.net$ @ads

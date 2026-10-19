@@ -13,6 +13,10 @@ cups.org
 developer.apple.com
 devimages-cdn.apple.com
 devstreaming-cdn.apple.com
+developerservices2.apple.com
+timestamp.apple.com
+full:notary-submissions-prod.s3-accelerate.amazonaws.com
+full:notary-submissions-prod.s3.us-west-2.amazonaws.com
 
 # FoundationDB
 foundationdb.org
@@ -27,6 +31,18 @@ macruby.org
 
 # MapKit
 apple-mapkit.com
+
+# regexp:^cdn(-cn)?[1-4]?\.apple-mapkit\.com$ @cn
+full:cdn.apple-mapkit.com @cn
+full:cdn1.apple-mapkit.com @cn
+full:cdn2.apple-mapkit.com @cn
+full:cdn3.apple-mapkit.com @cn
+full:cdn4.apple-mapkit.com @cn
+full:cdn-cn.apple-mapkit.com @cn
+full:cdn-cn1.apple-mapkit.com @cn
+full:cdn-cn2.apple-mapkit.com @cn
+full:cdn-cn3.apple-mapkit.com @cn
+full:cdn-cn4.apple-mapkit.com @cn
 
 # Playgrounds
 playgrounds-cdn.apple.com
@@ -55,3 +71,4 @@ webobjects.com
 full:appleworldwidedeveloper.hb-api.omtrdc.net
 full:appleworldwidedeveloper.sc.omtrdc.net
 full:p-events-delivery.akamaized.net
+

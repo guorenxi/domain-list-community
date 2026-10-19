@@ -1,6 +1,8 @@
 # All .fox domains
 fox
 
+include:tubi
+
 fox-corporation.com
 fox-news.com
 fox.com
@@ -169,8 +171,6 @@ foxuv.com
 foxweatherwatch.com
 fssta.com
 fxn.ws
-fxnetwork.com
-fxnetworks.com
 
 # Bento Box Entertainment
 bentobox.tv

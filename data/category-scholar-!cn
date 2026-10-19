@@ -1,27 +1,29 @@
 # This list contains scholarly domains that don't have access point in China Mainland.
 
+include:category-scholar-hk
+include:category-scholar-ir
+include:category-scholar-uk
 include:apa
-include:cambridge
 include:clarivate
 include:doi
 include:elsevier
 include:google-scholar
 include:ieee
-include:imperialcollege
-include:knovel
 include:mit
-include:oup
 include:proquest
 include:sci-hub
 include:sciencedirect
 include:springer
 include:taylorfrancis
+include:z-library
 
 aacrjournals.org # AACR 美国癌症研究学会
 academic.eb.com # Britannica Academic
+acaric.co.jp # 株式会社アカリク
 aclweb.org
 acm.org
 acs.org
+agu.org # American Geophysical Union
 aiaa.org # AIAA 美国航空航天学会
 aimsciences.org # AIMS 美国科学数学协会期刊库
 
@@ -29,12 +31,13 @@ aimsciences.org # AIMS 美国科学数学协会期刊库
 airiti.com
 airitilibrary.com
 
-altmetric.com
 alexanderstreet.com # Alexander Street
+alphaxiv.org # alphaXiv
+altmetric.com
 amdigital.co.uk # Adam Matthew Digital 历史与文化珍稀史料数据库集成
 ams.org # 美国数学学会
-anatomy.tv # digital human anatomy and physiology content
 analytictech.com
+anatomy.tv # digital human anatomy and physiology content
 annualreviews.org
 aps.org # American Physical Society Sites
 arabidopsis.org
@@ -64,12 +67,14 @@ bvdinfo.com # BvD系列数据库（Bank Focus、Osiris、ORBIS、Orbis Intellect
 cairn.info # Cairn 法语数据库
 capitaliq.com # Capital IQ
 cas.org # American Chemical Society
+ceicdata.com # CEIC 经济数据库
 chemnetbase.com # CRC Handbook of Chemistry and Physics
 choicereviews.org
 cios.org
 cmu.edu
 cochranelibrary.com
 computingreviews.com
+csrankings.org
 degruyter.com
 dentalhypotheses.com
 ebsco.com # EBSCO 检索平台
@@ -86,16 +91,24 @@ facultyopinions.com # Faculty Opinions
 frontiersin.org
 gale.com # Gale 平台
 galegroup.com # Gale 平台
+geolytics.com # Time Series Research Package（美国人口普查数据库）
 ggsrv.com # Gale 平台
 global-sci.org # Global Science Press GSP电子期刊
 heinonline.org # HeinOnline 法律全文数据库
 highwirepress.com # HighWire Press 电子期刊
 hindawi.com
+hotcrp.com # HotCRP Conference Management Software
 icevirtuallibrary.com # 英国土木工程师学会 ICE Virtual Library
 icsd.fiz-karlsruhe.de # Inorganic Crystal Structure Database
 igi-global.com # IGI Global 平台
 igpublish.com # iG Publishing电子图书
+
+#  漢珍數字圖書股份有限公司
+hanzhen.xmulib.org # 厦门大学汉珍数位
+infolinker.com.tw
+
 informs.org
+ioinformatics.org
 iop.org
 isca-speech.org
 iwaponline.com # IWA(国际水协会) 电子期刊
@@ -117,11 +130,13 @@ medrxiv.org
 morganclaypool.com
 nature.com
 naturemag.org
+ncbi.nlm.nih.gov
 ncl.edu.tw
 nejm.org
 neurology.org
 nii.ac.jp # CiNii学术信息导航
 oecd-ilibrary.org # Organisation for Economic Co-operation and Development
+openreview.net # OpenReview
 optica.org # OSA 美国光学学会全文数据库
 osapublishing.org # OSA
 ovid.com
@@ -139,17 +154,24 @@ rupress.org
 sae.org
 sagepub.com
 scholarpedia.org
+
+# Science Online From AAAS
 science.com
 science.org
 sciencemag.org
+scienceonline.org
+
 scientificamerican.com
 scitation.org
 semanticscholar.org
 siam.org # Society for Industry and Applied Mathematics 美国工业和应用数学学会
+sigcomm.org # the Association for Computing Machinery's Special Interest Group on Data Communications
+sigops.org # the Association for Computing Machinery's Special Interest Group on Operating Systems
 silverchair-cdn.com # https://global.oup.com/academic/news/silverchair-announcement
 spiedigitallibrary.org
 statsmakemecry.com
 thelancet.com
+tickdata.com # Tick Data-Futures and Indices Historical Data
 
 # Thieme Gruppe
 thieme.de
@@ -161,6 +183,8 @@ totalmateria.com # Total Materia
 uchicago.edu
 ucla.edu
 umass.edu
+usaco.org
+usenix.org # USENIX: The Advanced Computing Systems Association
 westlaw.com
 wiley.com
 wolterskluwer.com
@@ -170,9 +194,9 @@ zenodo.org
 
 full:angle.com.tw # 元照出版
 full:beck-online.beck.de # Beck-Online数据库
-full:dl.begellhouse.com # Begell Digital Library
 full:databank.worldbank.org # World DataBank 世界经济学数据库
 full:database.asahi.com # 朝日新闻数据库（闻藏II Visual）
+full:dl.begellhouse.com # Begell Digital Library
 full:elib.maruzen.co.jp # Maruzen e-Book Library（MEL）
 full:firstsearch.oclc.org # OCLC FirstSearch
 full:muse.jhu.edu # Project MUSE

@@ -1,9 +1,12 @@
+#include:activision-blizzard
 include:bethesda
+include:forza
 include:mojang
 
-forzamotorsport.net
-forzaracingchampionship.com
-forzarc.com
+# All .xbox domains
+xbox
+
+gamepass.com
 orithegame.com
 renovacionxboxlive.com
 tellmewhygame.com
@@ -24,5 +27,6 @@ xboxone.co
 xboxone.com
 xboxone.eu
 xboxplayanywhere.com
+xboxservices.com
 xboxstudios.com
 xbx.lv
